@@ -1,10 +1,13 @@
 _repo: Home-Life-in-Russia-Volumes-1-and-2-Dead-Souls_58070
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Lach-Szyrma, Krystin
     gutenberg_agent_id: '49759'
     url: http://www.gutenberg.org/2009/agents/49759
+covers:
+- cover_type: archival
+  image_path: 58070-h/images/cover.jpg
 creator:
   author:
     agent_name: Gogol, Nikolai Vasilevich
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/531
     wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58070#Home-Life-in-Russia-Volumes-1-and-2-Dead-Souls
 gutenberg_issued: '2018-10-10'
 gutenberg_type: Text
 identifiers:
